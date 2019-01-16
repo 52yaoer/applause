@@ -1,0 +1,9 @@
+{
+	modules:[
+		{
+		    name:'applause',
+		    class:'com.apicloud.applause.AppLauseModule'
+		}
+		
+	]
+}
